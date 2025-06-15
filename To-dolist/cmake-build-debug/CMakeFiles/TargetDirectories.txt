@@ -1,3 +1,0 @@
-C:/Users/pzale/CLionProjects/To-dolist/cmake-build-debug/CMakeFiles/To_dolist.dir
-C:/Users/pzale/CLionProjects/To-dolist/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/pzale/CLionProjects/To-dolist/cmake-build-debug/CMakeFiles/rebuild_cache.dir
