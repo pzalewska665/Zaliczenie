@@ -1,0 +1,3 @@
+C:/Users/pzale/CLionProjects/Tabela/cmake-build-debug/CMakeFiles/Tabela.dir
+C:/Users/pzale/CLionProjects/Tabela/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pzale/CLionProjects/Tabela/cmake-build-debug/CMakeFiles/rebuild_cache.dir
